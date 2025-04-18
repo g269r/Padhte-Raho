@@ -1,0 +1,221 @@
+@font-face {
+    font-family: 'sourcesanspro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(https://design.penpot.app/fonts/sourcesanspro-regular.woff) format('woff');
+  }
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.text-node { background-clip: text !important; -webkit-background-clip: text !important; }
+
+/* Board */
+.board-0c0ba8081df1 {
+  position: relative;
+  width: 360px;
+  height: 640px;
+  background: #FFFFFFFF;
+  border-radius: 0px 0px 0px 0px;
+  overflow: hidden;
+  z-index: 0;
+}
+
+/* New User */
+.new-user-0d54b8d8fe25 {
+  position: absolute;
+  left: 92px;
+  top: 324px;
+  width: 32px;
+  height: 10px;
+}
+.new-user-0d54b8d8fe25 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.new-user-0d54b8d8fe25 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.new-user-0d54b8d8fe25 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.new-user-0d54b8d8fe25 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 8px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Forgot Password */
+.forgot-pas-0d549650e14f {
+  position: absolute;
+  left: 204px;
+  top: 325px;
+  width: 56px;
+  height: 10px;
+}
+.forgot-pas-0d549650e14f .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.forgot-pas-0d549650e14f .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.forgot-pas-0d549650e14f .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.forgot-pas-0d549650e14f .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 8px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Rectangle */
+.rectangle-0d5480bb20f7 {
+  position: absolute;
+  left: 143px;
+  top: 393px;
+  width: 68px;
+  height: 17px;
+  background: #e44b09FF;
+  border-radius: 0px 0px 0px 0px;
+}
+
+/* Rectangle */
+.rectangle-0d545ffb5931 {
+  position: absolute;
+  left: 92px;
+  top: 296px;
+  width: 179px;
+  height: 24px;
+  background: #1549e4FF;
+  border-radius: 0px 0px 0px 0px;
+}
+
+/* Rectangle */
+.rectangle-0d545b64e97a {
+  position: absolute;
+  left: 93px;
+  top: 247px;
+  width: 179px;
+  height: 24px;
+  background: #173ba8FF;
+  border-radius: 0px 0px 0px 0px;
+}
+
+/* Rectangle */
+.rectangle-0c0ca8d7dcc1 {
+  position: absolute;
+  left: 74px;
+  top: 180px;
+  width: 215px;
+  height: 310px;
+  background: #B1B2B5FF;
+  border-radius: 0px 0px 0px 0px;
+}
+
+/* PADHTE RAHO */
+.padhte-rah-0c0c8f3c89da {
+  position: absolute;
+  left: 30px;
+  top: 73px;
+  width: 302px;
+  height: 60px;
+}
+.padhte-rah-0c0c8f3c89da .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.padhte-rah-0c0c8f3c89da .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.padhte-rah-0c0c8f3c89da .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.padhte-rah-0c0c8f3c89da .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 50px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+}
